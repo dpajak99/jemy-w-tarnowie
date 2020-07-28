@@ -1,0 +1,541 @@
+[
+  {
+    "slug": "bistro-menazka",
+    "name": "Bistro Menażka",
+    "address": "Kochanowskiego 30A, Tarnów ",
+    "delivery_min": "0 zł",
+    "hours": "pon. - pią. 10:00 - 15:30\nsob. - niedz. Zamknięte",
+    "telephone": [
+      "506 021 240",
+      "14 306 58 99"
+    ],
+    "logo_url": "https://www.skubacz.pl/system/logos/30406/menu_size/1566388074.png",
+    "menu_url": "https://www.bistromenazka.pl/restauracja/bistro-menazka",
+    "tags": [
+      "pierogi",
+      "sałatki",
+      "zupy",
+      "kuchnia tradycyjna i polska",
+      "obiady",
+      "śniadania",
+      "burgery",
+      "steki"
+    ]
+  },
+  {
+    "slug": "bujani-pizza",
+    "name": "Bujani Pizza ",
+    "address": "Mościckiego 166, Tarnów",
+    "delivery_min": "0 zł",
+    "hours": "pon. - czw. 10:00 - 21:30\npią. 10:00 - 22:30\nsob. 11:00 - 22:30\nniedz. 11:00 - 21:30",
+    "telephone": [
+      "515 202 431",
+      "14 6 220235"
+    ],
+    "logo_url": "https://www.skubacz.pl/system/logos/1315/menu_size/1551181224.png",
+    "menu_url": "https://www.bujanipizza.pl/restauracja/bujani-pizza",
+    "tags": [
+      "pizza",
+      "kebab",
+      "sałatki"
+    ]
+  },
+  {
+    "slug": "bialy-piec",
+    "name": "BIAŁY PIEC",
+    "address": "Wola Rzędzińska 457a, Wola Rzędzińska ",
+    "delivery_min": "0 zł",
+    "hours": "pon. - czw. 12:00 - 21:40\npią. - sob. 12:00 - 23:45\nniedz. 12:00 - 20:40",
+    "telephone": [
+      "739 040 700",
+      "14 3000 3 83"
+    ],
+    "logo_url": "https://www.skubacz.pl/system/logos/5179/menu_size/1595843418.png",
+    "menu_url": "https://www.bialypiec.pl/",
+    "tags": [
+      "pizza"
+    ]
+  },
+  {
+    "slug": "desperado-pub-pizzeria",
+    "name": "Desperado Pub Pizzeria",
+    "address": "Aleja Jana Pawła II 5, Tarnów",
+    "delivery_min": "0 zł",
+    "hours": "pon. - czw. 10:30 - 22:00\npią. - sob. 10:30 - 22:30\nniedz. 13:00 - 22:00",
+    "telephone": [
+      "14 620 10 17"
+    ],
+    "logo_url": "https://www.skubacz.pl/system/logos/35053/menu_size/1595834073.jpeg",
+    "menu_url": "https://desperadopub.pl/zamow-online",
+    "tags": [
+      "pizza",
+      "makarony",
+      "sałatki",
+      "zupy",
+      "obiady",
+      "dania wegetariańskie",
+      "burgery"
+    ]
+  },
+  {
+    "slug": "efes-kebab-tarnow",
+    "name": "Efes Kebab",
+    "address": "Rynek 9, Tarnów",
+    "delivery_min": "2,5 zł",
+    "hours": "pon. - czw. 09:30 - 23:00\npią. - sob. 09:30 - 00:00\nniedz. 09:30 - 23:00",
+    "telephone": [
+      "14 648 3000",
+      "533 308 608"
+    ],
+    "logo_url": "https://www.skubacz.pl/system/logos/19584/menu_size/1516609146.png",
+    "menu_url": "https://www.efestarnow.pl/restauracja/efes-kebab-tarnow",
+    "tags": [
+      "pizza",
+      "kebab",
+      "fast food i burgery",
+      "kanapki",
+      "sałatki",
+      "kuchnia włoska",
+      "kuchnia turecka"
+    ]
+  },
+  {
+    "slug": "elite-kebab",
+    "name": "Elit Kebab",
+    "address": "Wałowa 39, Tarnów  ",
+    "delivery_min": "0 zł",
+    "hours": "pon. - czw. 10:15 - 22:15\npią. - sob. 10:15 - 23:15\nniedz. 12:15 - 21:45",
+    "telephone": [
+      "577 015 783"
+    ],
+    "logo_url": "https://www.skubacz.pl/system/logos/34772/menu_size/1588581949.png",
+    "menu_url": "https://www.elitkebab.pl/restauracja/elite-kebab",
+    "tags": [
+      "kebab"
+    ]
+  },
+  {
+    "slug": "kebab-glodny-wilk",
+    "name": "Kebab Głodny Wilk",
+    "address": "Krakowska 46, Tarnów",
+    "delivery_min": "0 zł",
+    "hours": "pon. - sob. 09:15 - 23:00\nniedz. 14:15 - 20:15",
+    "telephone": [
+      "514 367 057"
+    ],
+    "logo_url": "https://www.skubacz.pl/system/logos/28521/menu_size/1553858960.png",
+    "menu_url": "https://www.glodnywilktarnow.pl/restauracja/kebab-glodny-wilk",
+    "tags": [
+      "kebab",
+      "kuchnia turecka"
+    ]
+  },
+  {
+    "slug": "gospoda-kupiecka-tarnow",
+    "name": "Gospoda Kupiecka - Tarnów",
+    "address": "Targowa 13, Tarnów",
+    "delivery_min": "0 zł",
+    "hours": "pon. - pią. 09:00 - 16:30\nsob. - niedz. Zamknięte",
+    "telephone": [
+      "667478007"
+    ],
+    "logo_url": "https://www.skubacz.pl/system/logos/31365/menu_size/1574930113.png",
+    "menu_url": "http://www.gospodakupiecka.pl/",
+    "tags": [
+      "kebab",
+      "fast food i burgery",
+      "sałatki",
+      "obiady"
+    ]
+  },
+  {
+    "slug": "gospoda-rycerska-b70e089f-2431-49e9-9b48-9844fe8a69eb",
+    "name": "Gospoda Rycerska",
+    "address": " Wekslarska 1, Tarnów   ",
+    "delivery_min": "5 zł",
+    "hours": "pon. - czw. 12:00 - 19:30\npią. - sob. 12:00 - 22:30\nniedz. 12:00 - 19:30",
+    "telephone": [
+      "14 627 59 80",
+      "512-431-497"
+    ],
+    "logo_url": "https://www.skubacz.pl/system/logos/34162/menu_size/1586866277.png",
+    "menu_url": "https://www.gospodarycerska.pl/restauracja/gospoda-rycerska-b70e089f-2431-49e9-9b48-9844fe8a69eb",
+    "tags": [
+      "pizza",
+      "pierogi",
+      "zupy",
+      "obiady"
+    ]
+  },
+  {
+    "slug": "grill-house-kebab",
+    "name": "Grill house & kebab",
+    "address": "Wola Rzędzińska 457 a, Wola Rzędzińska ",
+    "delivery_min": "0 zł",
+    "hours": "pon. - czw. 11:30 - 20:40\npią. - sob. 11:30 - 21:00\nniedz. 13:00 - 20:00",
+    "telephone": [
+      "739007200"
+    ],
+    "logo_url": "https://www.skubacz.pl/system/logos/25304/menu_size/1595589418.png",
+    "menu_url": "https://grillhouse.com.pl/menu/",
+    "tags": [
+      "kebab",
+      "fast food i burgery",
+      "burgery"
+    ]
+  },
+  {
+    "slug": "restauracja-gumniska",
+    "name": "Restauracja Gumniska",
+    "address": "Mostowa 14, Tarnów",
+    "delivery_min": "0 zł",
+    "hours": "pon. - niedz. 08:00 - 17:30",
+    "telephone": [
+      "575 050 200"
+    ],
+    "logo_url": "https://www.skubacz.pl/system/logos/35266/menu_size/1590476630.png",
+    "menu_url": "https://restauracjagumniska.pl/",
+    "tags": [
+      "obiady"
+    ]
+  },
+  {
+    "slug": "jani-sushi",
+    "name": "Jani Sushi",
+    "address": "Ul. Krasińskiego 42, Tarnów",
+    "delivery_min": "0 zł",
+    "hours": "pon. - czw. 12:00 - 21:30\npią. - sob. 12:00 - 22:30\nniedz. 12:00 - 21:30",
+    "telephone": [
+      "535 535 700",
+      "14 307 02 05"
+    ],
+    "logo_url": "https://www.skubacz.pl/system/logos/7834/menu_size/1473160299.png",
+    "menu_url": "https://www.janisushi.pl/restauracja/jani-sushi",
+    "tags": [
+      "sushi"
+    ]
+  },
+  {
+    "slug": "janipizza",
+    "name": "JaniPizza",
+    "address": "Krasińskiego 42, Tarnów",
+    "delivery_min": "0 zł",
+    "hours": "pon. - czw. 12:00 - 21:30\npią. - sob. 12:00 - 22:30\nniedz. 12:00 - 21:30",
+    "telephone": [
+      "14 307 07 08"
+    ],
+    "logo_url": "https://www.skubacz.pl/system/logos/1146/menu_size/1531911576.png",
+    "menu_url": "https://www.janipizza.pl/restauracja/janipizza",
+    "tags": [
+      "pizza"
+    ]
+  },
+  {
+    "slug": "koniczynka-kebab",
+    "name": "Koniczynka Kebab",
+    "address": "Mickiewicza 7, Tarnów",
+    "delivery_min": "0 zł",
+    "hours": "pon. - pią. 11:00 - 21:30\nsob. - niedz. 11:00 - 23:30",
+    "telephone": [
+      "500 044 833"
+    ],
+    "logo_url": "https://www.skubacz.pl/system/logos/35194/menu_size/1590393209.png",
+    "menu_url": "https://www.koniczynkakebab.pl/restauracja/koniczynka-kebab",
+    "tags": [
+      "kebab"
+    ]
+  },
+  {
+    "slug": "leprikon-irish",
+    "name": " Leprikon Irish",
+    "address": "Rynek 16, Tarnów",
+    "delivery_min": "0 zł",
+    "hours": "pon. - wto. 12:00 - 20:30\nśro. 11:00 - 20:30\nczw. - pią. 12:00 - 21:30\nsob. 11:00 - 21:30\nniedz. 12:00 - 20:30",
+    "telephone": [
+      "575070800"
+    ],
+    "logo_url": "https://www.skubacz.pl/system/logos/34847/menu_size/1588919907.png",
+    "menu_url": "https://www.leprikonirish.com/restauracja/leprikon-irish",
+    "tags": [
+      "makarony",
+      "naleśniki",
+      "pierogi",
+      "sałatki",
+      "zupy",
+      "desery",
+      "kuchnia tradycyjna i polska",
+      "obiady",
+      "dania wegetariańskie",
+      "śniadania",
+      "burgery",
+      "kawa",
+      "ciasta",
+      "lody"
+    ]
+  },
+  {
+    "slug": "obsesja-smaku",
+    "name": "Obsesja Smaku",
+    "address": "Krakowska 3, Tarnów",
+    "delivery_min": "0 zł",
+    "hours": "pon. - niedz. 12:00 - 20:00",
+    "telephone": [
+      "570-080-373",
+      "14 688 80 77"
+    ],
+    "logo_url": "https://www.skubacz.pl/system/logos/34978/menu_size/1589376547.png",
+    "menu_url": "https://www.obsesja-smaku.pl/restauracja/obsesja-smaku",
+    "tags": [
+      "pizza",
+      "pierogi",
+      "sałatki",
+      "zupy",
+      "obiady"
+    ]
+  },
+  {
+    "slug": "pani-pierozkowa",
+    "name": "Pani Pierożkowa",
+    "address": "Osiedle Zielone 15A,  33-100,  Tarnów",
+    "delivery_min": "0 zł",
+    "hours": "pon. - niedz. 11:00 - 21:30",
+    "telephone": [
+      "579 969 546"
+    ],
+    "logo_url": "https://www.skubacz.pl/system/logos/35264/menu_size/1590480794.png",
+    "menu_url": "https://www.panipierozkowa.pl/restauracja/pani-pierozkowa",
+    "tags": [
+      "pierogi",
+      "zupy"
+    ]
+  },
+  {
+    "slug": "restauracja-aida-4f3c7a7e-abac-43a5-a2df-cb11f7a79d39",
+    "name": "Restauracja Aida",
+    "address": " Wałowa 4 , Tarnów",
+    "delivery_min": "0 zł",
+    "hours": "pon. - czw. 11:00 - 19:30\npią. - sob. 11:00 - 21:30\nniedz. 11:00 - 19:30",
+    "telephone": [
+      "14 627 42 64",
+      "662 253 337"
+    ],
+    "logo_url": "https://www.skubacz.pl/system/logos/34873/menu_size/1588927045.png",
+    "menu_url": "https://www.aida-restauracja.pl/restauracja/restauracja-aida-4f3c7a7e-abac-43a5-a2df-cb11f7a79d39",
+    "tags": [
+      "pizza",
+      "makarony",
+      "naleśniki",
+      "pierogi",
+      "sałatki",
+      "zupy",
+      "desery",
+      "kuchnia tradycyjna i polska",
+      "obiady",
+      "dania wegetariańskie",
+      "kawa",
+      "ciasta",
+      "lody"
+    ]
+  },
+  {
+    "slug": "restauracja-u-zbycha",
+    "name": "Restauracja U Zbycha Tarnów",
+    "address": "ul. Mickiewicza 7, Tarnów",
+    "delivery_min": "0 zł",
+    "hours": "pon. - pią. 10:00 - 17:30\nsob. - niedz. 11:00 - 17:30",
+    "telephone": [
+      "509 700 837",
+      "502 398 690"
+    ],
+    "logo_url": "https://www.skubacz.pl/system/logos/1304/menu_size/1490274457.png",
+    "menu_url": "https://www.restauracjauzbycha.okay.pl/restauracja/restauracja-u-zbycha",
+    "tags": [
+      "pizza",
+      "fast food i burgery",
+      "makarony",
+      "pierogi",
+      "sałatki",
+      "kuchnia tradycyjna i polska"
+    ]
+  },
+  {
+    "slug": "salsa",
+    "name": "Salsa",
+    "address": "Lwowska 43, Tarnów",
+    "delivery_min": "0 zł",
+    "hours": "pon. - sob. 11:00 - 21:30\nniedz. 12:00 - 21:00",
+    "telephone": [
+      "798 407 195"
+    ],
+    "logo_url": "https://www.skubacz.pl/system/logos/35170/menu_size/1590145143.png",
+    "menu_url": "https://www.salsarestauracja.pl/restauracja/salsa",
+    "tags": [
+      "sałatki",
+      "zupy",
+      "desery",
+      "kuchnia meksykańska",
+      "obiady",
+      "dania wegetariańskie",
+      "dania wegańskie"
+    ]
+  },
+  {
+    "slug": "spec-kebab",
+    "name": "Spec Kebab",
+    "address": "Nowy Świat 3, Tarnów",
+    "delivery_min": "0 zł",
+    "hours": "pon. - śro. 09:00 - 22:00\nczw. - niedz. 09:00 - 23:00",
+    "telephone": [
+      "513 391 547"
+    ],
+    "logo_url": "https://www.skubacz.pl/system/logos/35003/menu_size/1589454888.png",
+    "menu_url": "https://www.speckebab.pl/restauracja/spec-kebab",
+    "tags": [
+      "kebab",
+      "fast food i burgery"
+    ]
+  },
+  {
+    "slug": "stara-laznia",
+    "name": " Stara Łaźnia",
+    "address": "Plac Więźniów KL Auschwitz 1, 33-100,  Tarnów",
+    "delivery_min": "5 zł",
+    "hours": "pon. - wto. Zamknięte\nśro. - niedz. 11:00 - 19:00",
+    "telephone": [
+      "14 692 00 39"
+    ],
+    "logo_url": "https://www.skubacz.pl/system/logos/34616/menu_size/1588052880.png",
+    "menu_url": "https://laznia.tarnow.pl/zamow-online/",
+    "tags": [
+      "pierogi",
+      "sałatki",
+      "zupy",
+      "obiady"
+    ]
+  },
+  {
+    "slug": "srodmiescie-pub",
+    "name": "Śródmieście Pub",
+    "address": "pl. Kazimierza Wielkiego 2 , Tarnów",
+    "delivery_min": "0 zł",
+    "hours": "pon. - czw. 11:00 - 22:00\npią. - sob. 11:00 - 23:00\nniedz. 11:00 - 22:00",
+    "telephone": [
+      "604 872 318"
+    ],
+    "logo_url": "https://www.skubacz.pl/system/logos/24570/menu_size/1536504775.png",
+    "menu_url": "http://www.srodmiesciepub.pl/",
+    "tags": [
+      "fast food i burgery",
+      "kanapki",
+      "sałatki",
+      "desery",
+      "dania wegetariańskie",
+      "dania wegańskie",
+      "kuchnia amerykańska",
+      "burgery",
+      "kurczak"
+    ]
+  },
+  {
+    "slug": "tarnowski-kumpir",
+    "name": "Tarnowski Kumpir",
+    "address": "Wałowa 4, Tarnów",
+    "delivery_min": "0 zł",
+    "hours": "pon. - sob. 10:15 - 20:30\nniedz. 12:15 - 20:30",
+    "telephone": [
+      "536 044 644"
+    ],
+    "logo_url": "https://www.skubacz.pl/system/logos/17938/menu_size/small-logo.png",
+    "menu_url": "http://www.tarnowskikumpir.pl/zamowonline",
+    "tags": [
+      "sałatki",
+      "kuchnia tradycyjna i polska",
+      "obiady",
+      "dania wegetariańskie",
+      "dania wegańskie",
+      "śniadania",
+      "kawa",
+      "kurczak",
+      "kuchnia turecka"
+    ]
+  },
+  {
+    "slug": "u-mlynarzy-tarnow",
+    "name": "U Młynarzy",
+    "address": "Kołłątaja 9, Tarnów",
+    "delivery_min": "0 zł",
+    "hours": "pon. - czw. 12:00 - 20:00\npią. - sob. 12:00 - 22:00\nniedz. 12:00 - 21:00",
+    "telephone": [
+      "882 167 311"
+    ],
+    "logo_url": "https://www.skubacz.pl/system/logos/19142/menu_size/1512921146.png",
+    "menu_url": "http://umlynarzy.pl/zamow-online/",
+    "tags": [
+      "pizza",
+      "makarony",
+      "pierogi",
+      "sałatki",
+      "zupy",
+      "desery",
+      "kuchnia tradycyjna i polska",
+      "obiady",
+      "dania wegetariańskie",
+      "ciasta",
+      "kuchnia włoska"
+    ]
+  },
+  {
+    "slug": "warka-piwiarnia-tarnow",
+    "name": "Warka Piwiarnia Tarnów",
+    "address": "Rynek 2, Tarnów",
+    "delivery_min": "2,5 zł",
+    "hours": "pon. - wto. 11:30 - 21:45\nśro. 11:30 - 19:45\nczw. 11:30 - 21:45\npią. - sob. 11:30 - 18:00\nniedz. Zamknięte",
+    "telephone": [
+      "14 648 30 30"
+    ],
+    "logo_url": "https://www.skubacz.pl/system/logos/5059/menu_size/1589789048.png",
+    "menu_url": "https://www.warkatarnow.pl/restauracja/warka-piwiarnia-tarnow",
+    "tags": [
+      "kuchnia tradycyjna i polska"
+    ]
+  },
+  {
+    "slug": "restauracja-soprano",
+    "name": "Restauracja Soprano",
+    "address": "Mościckiego 6, 33-100,  Tarnów",
+    "delivery_min": "0 zł",
+    "hours": "pon. - niedz. 12:00 - 21:00",
+    "telephone": [
+      "14 621 09 09"
+    ],
+    "logo_url": "https://www.skubacz.pl/system/logos/35334/menu_size/Logo_Soprano.png",
+    "menu_url": "http://www.soprano-tarnow.pl/menu.php",
+    "tags": [
+      "obiady"
+    ]
+  },
+  {
+    "slug": "pelna-chata-tarnow",
+    "name": "Pełna Chata Tarnów",
+    "address": "Spokojna 22A, Tarnów",
+    "delivery_min": "5 zł",
+    "hours": "pon. - niedz. 08:00 - 17:00",
+    "telephone": [
+      "881 397 397"
+    ],
+    "logo_url": "https://www.skubacz.pl/system/logos/35459/menu_size/1593163683.png",
+    "menu_url": "https://www.barpelnachata.pl/restauracja/pelna-chata-tarnow",
+    "tags": [
+      "fast food i burgery",
+      "kanapki",
+      "pierogi",
+      "zupy",
+      "kuchnia tradycyjna i polska",
+      "obiady",
+      "burgery",
+      "kawa",
+      "kurczak",
+      "z grilla"
+    ]
+  }
+]
