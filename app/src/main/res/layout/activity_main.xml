@@ -22,7 +22,20 @@
                 android:layout_height="?attr/actionBarSize"
                 android:background="@color/colorPrimary"
                 app:popupTheme="@style/ToolBarStyle"
-                app:theme="@style/ToolBarStyle" />
+                app:theme="@style/ToolBarStyle" >
+
+                <EditText
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginEnd="@dimen/margin_medium"
+                    android:backgroundTint="#FFFFFF"
+                    android:hint="Wybierz swoją lokalizację"
+                    android:keepScreenOn="false"
+                    android:selectAllOnFocus="true"
+                    android:focusable="true"
+                    android:focusableInTouchMode="true"
+                    android:singleLine="true" />
+            </androidx.appcompat.widget.Toolbar>
 
             <ScrollView
                 android:layout_width="match_parent"
@@ -35,7 +48,6 @@
                     android:name="androidx.navigation.fragment.NavHostFragment"
                     android:layout_width="match_parent"
                     android:layout_height="match_parent"
-
                     app:defaultNavHost="true"
                     app:layout_constraintBottom_toBottomOf="parent"
                     app:layout_constraintLeft_toLeftOf="parent"
@@ -65,6 +77,7 @@
         android:layout_height="match_parent"
         android:layout_gravity="start"
         android:fitsSystemWindows="true"
-        app:menu="@menu/bottom_nav_menu" />
+        app:headerLayout="@layout/nav_header_main"
+        app:menu="@menu/activity_main_drawer" />
 
 </androidx.drawerlayout.widget.DrawerLayout>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group>
+        <item android:id="@+id/nav_item_one"
+            android:icon="@drawable/ic_envelope"
+            android:title="Wiadomości" />
+        <item android:id="@+id/nav_item_two"
+            android:icon="@drawable/ic_store"
+            android:title="Zamówienia" />
+        <item android:id="@+id/nav_item_three"
+            android:icon="@drawable/ic_star"
+            android:title="Ulubione" />
+    </group>
+
+    <item android:title="Konto">
+        <menu>
+            <item android:id="@+id/nav_item_six"
+                android:icon="@drawable/ic_user"
+                android:title="Dane kontaktowe" />
+            <item android:id="@+id/nav_item_seven"
+                android:icon="@drawable/ic_settings"
+                android:title="Ustawienia" />
+            <item android:id="@+id/nav_item_eight"
+                android:icon="@drawable/ic_logout"
+                android:title="Wyloguj" />
+        </menu>
+    </item>
+
+    <group android:id="@+id/group_menu">
+        <item android:id="@+id/nav_item_four"
+            android:title="Zadaj pytanie" />
+        <item android:id="@+id/nav_item_five"
+            android:title="Polityka prywatności" />
+    </group>
+</menu>
