@@ -18,8 +18,19 @@
         tools:layout="@layout/fragment_dashboard" />
 
     <fragment
-        android:id="@+id/navigation_notifications"
-        android:name="com.softarea.jemywtarnowie.ui.NotificationsFragment"
-        android:label="@string/title_notifications"
-        tools:layout="@layout/fragment_notifications" />
+        android:id="@+id/navigation_map"
+        android:name="com.softarea.jemywtarnowie.ui.MapFragment"
+        android:label="@string/title_map"
+        tools:layout="@layout/fragment_map" />
+
+    <fragment
+        android:id="@+id/navigation_promotion"
+        android:name="com.softarea.jemywtarnowie.ui.PromotionFragment"
+        android:label="@string/title_promotion"
+        tools:layout="@layout/fragment_promotion" />
+    <fragment
+        android:id="@+id/navigation_order"
+        android:name="com.softarea.jemywtarnowie.ui.OrderFragment"
+        android:label="@string/title_order"
+        tools:layout="@layout/fragment_order" />
 </navigation>

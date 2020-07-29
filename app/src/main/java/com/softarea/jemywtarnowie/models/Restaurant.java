@@ -1,8 +1,9 @@
 package com.softarea.jemywtarnowie.models;
 
+import java.io.Serializable;
 import java.util.Arrays;
 
-public class Restaurant {
+public class Restaurant implements Serializable {
   private String slug;
   private String name;
   private String address;

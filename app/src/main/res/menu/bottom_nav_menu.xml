@@ -8,12 +8,17 @@
 
     <item
         android:id="@+id/navigation_dashboard"
-        android:icon="@drawable/ic_dashboard_black_24dp"
+        android:icon="@drawable/ic_store"
         android:title="@string/title_dashboard" />
 
     <item
-        android:id="@+id/navigation_notifications"
-        android:icon="@drawable/ic_notifications_black_24dp"
-        android:title="@string/title_notifications" />
+        android:id="@+id/navigation_map"
+        android:icon="@drawable/ic_gps"
+        android:title="@string/title_map" />
+
+    <item
+        android:id="@+id/navigation_promotion"
+        android:icon="@drawable/ic_discount"
+        android:title="@string/title_promotion" />
 
 </menu>

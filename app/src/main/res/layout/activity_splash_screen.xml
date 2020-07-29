@@ -20,6 +20,7 @@
         android:layout_marginBottom="10dp"
         android:gravity="center_horizontal"
         android:text="@string/website"
+        android:fontFamily="@font/jost_bold"
         android:textColor="#000"
         android:textSize="12dp" />
 

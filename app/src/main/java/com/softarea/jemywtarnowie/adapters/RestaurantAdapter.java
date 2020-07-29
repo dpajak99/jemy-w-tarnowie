@@ -3,6 +3,7 @@ package com.softarea.jemywtarnowie.adapters;
 import android.annotation.SuppressLint;
 import android.content.Context;
 import android.content.Intent;
+import android.os.Bundle;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
@@ -12,6 +13,8 @@ import android.widget.RelativeLayout;
 import android.widget.TextView;
 
 import androidx.annotation.NonNull;
+import androidx.cardview.widget.CardView;
+import androidx.navigation.Navigation;
 
 import com.softarea.jemywtarnowie.R;
 import com.softarea.jemywtarnowie.models.Restaurant;
@@ -22,6 +25,7 @@ import java.util.List;
 
 public class RestaurantAdapter extends ArrayAdapter<Restaurant> {
   private static class ViewHolder {
+    private CardView restaurantItem;
     private ImageView restaurantImage;
     private TextView restaurantName;
     private TextView restaurantAddress;
@@ -43,6 +47,7 @@ public class RestaurantAdapter extends ArrayAdapter<Restaurant> {
         .inflate(R.layout.item_restaurant, parent, false);
 
       viewHolder = new ViewHolder();
+      viewHolder.restaurantItem = convertView.findViewById(R.id.card_restaurant);
       viewHolder.restaurantImage = convertView.findViewById(R.id.image_restaurant);
       viewHolder.restaurantName = convertView.findViewById(R.id.text_restaurant);
       viewHolder.restaurantAddress = convertView.findViewById(R.id.text_address);
@@ -54,29 +59,29 @@ public class RestaurantAdapter extends ArrayAdapter<Restaurant> {
       viewHolder = (ViewHolder) convertView.getTag();
     }
 
-    Restaurant restaurant = getItem(position);
+    final Restaurant restaurant = getItem(position);
     if (restaurant != null) {
       ImageUtils.loadImage(getContext(), restaurant.getLogoUrl(), viewHolder.restaurantImage);
       viewHolder.restaurantName.setText(restaurant.getName());
       viewHolder.restaurantAddress.setText(restaurant.getAddress());
       viewHolder.restaurantTimeOpen.setText(restaurant.getHours());
-      String result = "";
-      for(int i = 0; i < restaurant.getTelephone().length; i++ ) {
-        result = StringUtils.join(result, restaurant.getTelephone()[i]);
-        if( i != restaurant.getTelephone().length - 1 ) {
-          result = StringUtils.join( result, "\n");
+      String stringResult = "";
+      for (int i = 0; i < restaurant.getTelephone().length; i++) {
+        stringResult = StringUtils.join(stringResult, restaurant.getTelephone()[i]);
+        if (i != restaurant.getTelephone().length - 1) {
+          stringResult = StringUtils.join(stringResult, "\n");
         }
       }
-      viewHolder.restaurantPhone.setText(result);
+      viewHolder.restaurantPhone.setText(stringResult);
 
-     /* viewHolder.imageView.setOnClickListener(view -> {
-        Intent intent = new Intent(getContext(), ProductsListActivity.class);
-        intent.putExtra("categoryId", category.getId());
-        intent.putExtra("categoryName", category.getName());
-        getContext().startActivity(intent);
-      });*/
+      final View finalConvertView = convertView;
+      viewHolder.restaurantItem.setOnClickListener(view -> {
+        Bundle result = new Bundle();
+        result.putSerializable("restaurant", restaurant);
+
+        Navigation.findNavController(finalConvertView).navigate(R.id.navigation_order, result);
+      });
     }
-
     return convertView;
   }
 }
