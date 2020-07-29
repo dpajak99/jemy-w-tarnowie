@@ -1,5 +1,7 @@
 <resources>
     <string name="app_name">Jemy w Tarnowie</string>
+    <string name="website">jemywtarnowie.pl</string>
+
     <string name="title_restaurants">Restauracje</string>
     <string name="title_dashboard">Zamów online</string>
     <string name="title_notifications">Inne</string>

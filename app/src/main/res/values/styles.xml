@@ -11,5 +11,7 @@
     <style name="ToolBarStyle" parent="Theme.AppCompat">
 
     </style>
-
+    <style name="SplashScreen" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="android:windowTranslucentStatus">true</item>
+    </style>
 </resources>
