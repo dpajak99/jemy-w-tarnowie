@@ -3,7 +3,7 @@
 ![Showcase](./assets/video.gif)
 
 ## Description
-Not official app for https://www.jemywtarnowie.pl/ website
+Unofficial app for https://www.jemywtarnowie.pl/ website. Created for learning purposes.
 ## Technologies
 This project was developed using Java (Android).
 
